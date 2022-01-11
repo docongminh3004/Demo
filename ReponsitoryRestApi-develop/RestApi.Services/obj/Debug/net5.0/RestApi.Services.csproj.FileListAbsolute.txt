@@ -1,0 +1,30 @@
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\obj\Debug\net5.0\RestApi.Services.csproj.AssemblyReference.cache
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\obj\Debug\net5.0\RestApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\obj\Debug\net5.0\RestApi.Services.AssemblyInfoInputs.cache
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\obj\Debug\net5.0\RestApi.Services.AssemblyInfo.cs
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\obj\Debug\net5.0\RestApi.Services.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\bin\Debug\net5.0\RestApi.Services.deps.json
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\bin\Debug\net5.0\RestApi.Services.dll
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\bin\Debug\net5.0\ref\RestApi.Services.dll
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\bin\Debug\net5.0\RestApi.Services.pdb
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\bin\Debug\net5.0\RestApi.Data.dll
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\bin\Debug\net5.0\RestApi.Data.pdb
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\obj\Debug\net5.0\RestApi.Services.csproj.CopyComplete
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\obj\Debug\net5.0\RestApi.Services.dll
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\obj\Debug\net5.0\ref\RestApi.Services.dll
+D:\ASP.NET Core WEB API\RestApi\RestApi.Services\obj\Debug\net5.0\RestApi.Services.pdb
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\bin\Debug\net5.0\RestApi.Services.deps.json
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\bin\Debug\net5.0\RestApi.Services.dll
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\bin\Debug\net5.0\ref\RestApi.Services.dll
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\bin\Debug\net5.0\RestApi.Services.pdb
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\bin\Debug\net5.0\RestApi.Data.dll
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\bin\Debug\net5.0\RestApi.Data.pdb
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\obj\Debug\net5.0\RestApi.Services.csproj.AssemblyReference.cache
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\obj\Debug\net5.0\RestApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\obj\Debug\net5.0\RestApi.Services.AssemblyInfoInputs.cache
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\obj\Debug\net5.0\RestApi.Services.AssemblyInfo.cs
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\obj\Debug\net5.0\RestApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\obj\Debug\net5.0\RestApi.Services.csproj.CopyComplete
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\obj\Debug\net5.0\RestApi.Services.dll
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\obj\Debug\net5.0\ref\RestApi.Services.dll
+C:\Users\ovmar\Downloads\DEMO BÀI\ReponsitoryRestApi-ngoc_develop\RestApi.Services\obj\Debug\net5.0\RestApi.Services.pdb
